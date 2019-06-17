@@ -15,4 +15,7 @@ public class Test {
 	public void fun2(){
 		System.out.println("5555");
 	}
+	public void fun3(){
+		System.out.println("222");
+	}
 }
