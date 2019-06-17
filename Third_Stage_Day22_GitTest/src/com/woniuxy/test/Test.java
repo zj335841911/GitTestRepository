@@ -18,4 +18,8 @@ public class Test {
 	public void fun3(){
 		System.out.println("222");
 	}
+	public void fun4(){
+		System.out.println("4444444");
+	}
+	
 }
