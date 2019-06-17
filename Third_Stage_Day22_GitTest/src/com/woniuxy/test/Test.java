@@ -7,5 +7,12 @@ public class Test {
 	
 	public void fun(){
 		System.out.println("hello git!");
+		System.out.println("666");
+	}
+	public void fun1(){
+		System.out.println("11111");
+	}
+	public void fun2(){
+		System.out.println("5555");
 	}
 }
